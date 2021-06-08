@@ -9,7 +9,7 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "localhost:3000",
-    "http://192.168.100.14:3000"
+    "http://192.168.100.14:3000",
     "https://calculator-react-ui.herokuapp.com"
 ]
 
